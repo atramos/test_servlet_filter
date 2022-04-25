@@ -1,0 +1,17 @@
+<project xmlns="https://maven.apache.org/POM/3.2.3" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/3.2.3 http://maven.apache.org/maven-v3_2_3.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.stackoverflow.mcve</groupId>
+    <artifactId>filter</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <name>DemoMavenProject</name>
+    <url>http://maven.apache.org</url>
+    <dependencies>
+        <dependency>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>4.0.4</version>
+        </dependency>
+    </dependencies>
+</project>
